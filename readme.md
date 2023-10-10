@@ -49,3 +49,7 @@ npx expo install react-native-screens react-native-safe-area-context
 # import  NavigationContainer for wrapping up app in app.js
 import { NavigationContainer } from '@react-navigation/native'; 
 # using navigation container in app.js 
+
+
+# install heroicons for using icons in application
+npm i react-native-heroicons react-native-svg
